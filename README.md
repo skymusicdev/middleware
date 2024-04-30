@@ -1,2 +1,2 @@
-# middleware
+# Middleware
 Middleware API for SkyMusic
